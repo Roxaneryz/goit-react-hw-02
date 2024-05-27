@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import Feedback from './components/feedback/Feedback';
 import Options from './components/Options/Options';
