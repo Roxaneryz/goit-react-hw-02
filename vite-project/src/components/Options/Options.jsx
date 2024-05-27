@@ -14,9 +14,9 @@ const Options = ({ updateFeedback, resetFeedback, totalFeedback }) => {
         <button
           className={css.button}
           type="button"
-          onClick={() => updateFeedback('natural')}
+          onClick={() => updateFeedback('neutral')}
         >
-         Natural
+         Neutral
         </button>
         <button
           className={css.button}
